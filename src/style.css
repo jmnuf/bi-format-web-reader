@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+  min-height: 100dvh;
+}
+
+legend, label {
+  color: inherit;
+}
+input[type="file"] {
+  cursor: pointer;
+}
+
+
